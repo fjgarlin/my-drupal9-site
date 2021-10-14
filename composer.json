@@ -106,6 +106,7 @@
     "require-dev": {
         "drupal/commerce": "^2.27",
         "drupal/core-dev": "^9.2",
+        "drupal/drupal-extension": "^4.1",
         "phpspec/prophecy-phpunit": "^2"
     }
 }
